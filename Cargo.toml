@@ -8,3 +8,6 @@ edition = "2018"
 
 [dependencies]
 ssh2 = "0.8.1"
+ansi_term = "0.12"
+clap = "2.33.1"
+rustyline = "6.2.0"
